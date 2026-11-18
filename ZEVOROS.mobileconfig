@@ -49,11 +49,11 @@
          <key>PayloadDescription</key>
          <string>Hệ thống chặn thu hồi chứng chỉ và bảo mật bởi ZEVOROS</string>
          <key>PayloadDisplayName</key>
-         <string>HùngIOS Anti-Revoke DNS</string>
+         <string>ZEVOROS Anti-Revoke DNS</string>
          <key>PayloadIdentifier</key>
          <string>com.hungios.dns.managed</string>
          <key>PayloadOrganization</key>
-         <string>HùngIOS</string>
+         <string>ZEVOROS</string>
          <key>PayloadType</key>
          <string>com.apple.dnsSettings.managed</string>
          <key>PayloadUUID</key>
@@ -192,7 +192,7 @@
          <key>IsRemovable</key>
          <true/>
          <key>Label</key>
-         <string>HùngIOS</string>
+         <string>ZEVOROS</string>
          <key>PayloadDisplayName</key>
          <string>Bio ZEVOROS</string>
          <key>PayloadIdentifier</key>
